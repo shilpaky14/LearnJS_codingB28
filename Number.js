@@ -1,0 +1,4 @@
+//NaN
+//Bigint
+//infinity
+//isInteger
